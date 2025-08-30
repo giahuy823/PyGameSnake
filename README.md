@@ -12,10 +12,10 @@ Chào mừng bạn đến với Snake Game! Đây là trò chơi nho nhỏ đư�
 - Thư viện hỗ trợ: Pygame, random
 
 ## Yêu cầu hệ thống
-- Tải python trên trang chủ pyhon về, truy cập đường dẫn sau để truy cập:https://www.python.org/downloads/.
+- Tải python trên trang chủ python về, truy cập đường dẫn sau để truy cập:https://www.python.org/downloads/.
 
 ## Khởi động Game
-- Mở VSCode và mở thư mục PygameSnake trong VSCode và run để chạy.
+- Mở VSCode và mở thư mục Pygame và Pygame.exe để chơi
 
 ## Thông tin liên hệ
 Gmail: giahuy.823948@gmail.com
